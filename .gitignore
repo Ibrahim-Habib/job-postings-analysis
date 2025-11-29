@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw data files (keep them private)
+*.xlsx
+*.csv
+
+# IDE-specific files
+.vscode/
+.idea/
